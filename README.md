@@ -13,7 +13,7 @@ Admin dashboard for managing products and monitoring activity in the Shopper ful
 
 - **Frontend:** React
 - **Routing:** React Router
-- **Backend API:** [Shopper E-Com Backend](../shopper-e-com-backend)
+- **Backend API:** [Shopper E-Com Backend](https://github.com/Areeb22297/shopper-e-com-admin/shopper-e-com-backend)
 - **State Management:** Local state
 
 ## Getting Started
