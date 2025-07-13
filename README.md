@@ -56,15 +56,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Usage
 
-- Log in as admin
 - Add, edit, or remove products
 - View dashboard and product listings
 
 ## License
 
 MIT
-
-## Acknowledgements
-
-- [Create React App](https://github.com/facebook/create-react-app)
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
